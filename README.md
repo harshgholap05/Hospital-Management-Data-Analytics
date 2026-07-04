@@ -75,3 +75,13 @@ Finding true insights goes beyond just printing numbers. It follows a distinct p
 *   ✅ **NumPy Statistical Analysis** (Mean, median, std, IQR)
 *   ✅ **Visualizations** (Bar, line, hist, pie, scatter)
 *   ✅ **Business Insights** (6 data-backed insights, including cross-insights)
+
+---
+
+<div align="center">
+
+⭐ If this project helped you, please give it a star!
+
+*Built using • Python • Pandas • NumPy • Matplotlib*
+
+</div>
