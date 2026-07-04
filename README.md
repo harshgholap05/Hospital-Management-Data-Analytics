@@ -6,7 +6,6 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]()
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
 
 <br />
 
