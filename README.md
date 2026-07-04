@@ -2,10 +2,10 @@
 
 # 🏥 Hospital Management Data Analytics
 
-<img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/LIBRARY-PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/LIBRARY-NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/LIBRARY-MATPLOTLIB-11557c?style=for-the-badge" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/PYTHON-LANGUAGE-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PANDAS-DATA_MANIPULATION-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NUMPY-STATISTICS-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/MATPLOTLIB-VISUALIZATION-11557c?style=for-the-badge" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge" alt="Status" />
 
 <br />
@@ -17,6 +17,7 @@ Welcome to the **Hospital Management Data Analytics** project! This project focu
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshvardhan-gholap-821255326/)
 
 </div>
+
 ## 🛠️ Tech Stack Used
 *   **Pandas:** For data manipulation, cleaning, and transformation.
 *   **NumPy:** For statistical analysis and numerical operations.
