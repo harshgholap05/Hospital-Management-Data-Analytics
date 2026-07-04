@@ -17,10 +17,14 @@ Welcome to the **Hospital Management Data Analytics** project! This project focu
 
 </div>
 
-## 🛠️ Tech Stack Used
-*   **Pandas:** For data manipulation, cleaning, and transformation.
-*   **NumPy:** For statistical analysis and numerical operations.
-*   **Matplotlib:** For creating impactful data visualizations.
+## 🛠️ Tools & Technologies
+
+*   **Python** — Core programming language
+*   **Pandas** — Data manipulation, cleaning, and transformation
+*   **NumPy** — Statistical analysis and numerical operations
+*   **Matplotlib** — Data visualization (Bar, Line, Pie, Scatter charts)
+*   **Jupyter Notebook** — Interactive development environment
+*   **CSV Dataset** — Raw data source (5 hospital data files)
 
 ---
 
