@@ -2,11 +2,11 @@
 
 # 🏥 Hospital Management Data Analytics
 
-<img src="https://img.shields.io/badge/PYTHON-LANGUAGE-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PANDAS-DATA_MANIPULATION-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NUMPY-STATISTICS-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/MATPLOTLIB-VISUALIZATION-11557c?style=for-the-badge" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge" alt="Status" />
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
 
 <br />
 
