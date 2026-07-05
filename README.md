@@ -15,6 +15,7 @@ Welcome to the **Hospital Management Data Analytics** project! This project focu
 
 <br />
 
+[![Live Website](https://img.shields.io/badge/🚀_Live_Website-00C853?style=for-the-badge)](https://hospital-management-harshgholap.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshvardhan-gholap-821255326/)
 
 </div>
